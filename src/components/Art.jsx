@@ -72,7 +72,7 @@ function Art() {
          
         
        </div>
-         <div className='masked-container' >
+              <div className='masked-container' >
              <h2 className='will-fade' >Sip Worthy Perfection</h2>
                <div id ="masked-content"> 
                 <h3> Made with Craft, Poured with Passion </h3>
